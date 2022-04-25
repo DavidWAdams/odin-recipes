@@ -1,2 +1,4 @@
 # odin-recipes
-Odin Project recipe lesson
+Odin Project Recipe Lesson
+
+Lesson to learn HTML in by building a basic recipe website. 
