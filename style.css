@@ -1,5 +1,13 @@
+/* 
+{
+    border: 2px solid red;
+}
+*/
+
 .pic-thumbnail {
     width:75px;height:75px;
+    margin: 10px;
+    margin-bottom: -30px;
 }
 
 .pic-recipe {
@@ -9,4 +17,25 @@
 .indent-1 {
     margin-left: 20px;
     font-family:'Times New Roman', Times, serif
+}
+
+.block-link{
+    outline: 2px black;
+    display: inline-block;
+    border: 5px black;
+    border-radius: .5em;
+    margin: 10px;
+    background: #0a8a5bd8;
+    width: 150px;
+    text-align: center;
+    text-decoration: none;
+    color: white;
+    line-height: 3;
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+.block-link:hover
+{
+    background: #076e48;
+    transition-duration: .3s;
 }
